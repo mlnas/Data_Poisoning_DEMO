@@ -1,3 +1,4 @@
+![Parallel Training Pipeline](https://github.com/user-attachments/assets/05999951-7800-416a-b6a0-85a4ddb25ebd)
 Step-by-Step Integration Plan
 1. Set Up a Parallel Training Pipeline (Shadow Mode)
 What it is: Run the robust training process alongside your current system without affecting live operations.
