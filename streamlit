@@ -1,0 +1,3 @@
+streamlit run secml_streamlit_demo.py --logger.level=debug
+
+streamlit run secml_streamlit_demo.py
