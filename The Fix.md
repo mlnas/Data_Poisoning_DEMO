@@ -5,14 +5,14 @@ What it is: Run the robust training process alongside your current system withou
 
 Why it helps: You can monitor performance, spot improvements, and ensure stability before switching anything in production.
 
-How: Use a tool like SecML or Scikit-learn + Streamlit to train models on filtered data (e.g., using Isolation Forest).
+How: Use a tool like SecML to train models on filtered data (e.g., using Isolation Forest).
 
 2. Clean & Sanitize Incoming Data
 Use tools like:
 
-🛡️ Isolation Forest – Flags suspicious, potentially poisoned samples.
+ Isolation Forest – Flags suspicious, potentially poisoned samples.
 
-🧹 Statistical Filters – Removes data that doesn't match normal patterns.
+ Statistical Filters – Removes data that doesn't match normal patterns.
 
 Deploy these as a preprocessing step in your data pipeline before training or inference.
 
