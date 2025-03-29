@@ -1,3 +1,0 @@
-streamlit run app.py --logger.level=debug
-
-streamlit run app.py
