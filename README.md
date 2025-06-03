@@ -65,16 +65,6 @@ Next time, the attacker submits a high-value loan request — and the model appr
 ---
 
 
-## 🏢 How We Help
-
-DevSecAI can:
-
-- ✅ Audit your ML pipeline for poisoning vulnerabilities
-- ✅ Integrate robust detection like Isolation Forests
-- ✅ Design parallel training pipelines for safe model updates
-- ✅ Deploy SecML to simulate and harden against adversarial attacks
-
-> We help you move from reactive defense to proactive AI robustness.
 
 ---
 
@@ -87,14 +77,5 @@ DevSecAI can:
 - Supporting adversarial training workflows
 
 It allows you to test your ML models in a red-team environment before attackers do.
-
----
-
----
-
-## 📎 License
-MIT License
-
----
 
 
